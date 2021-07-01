@@ -8,6 +8,7 @@ struct pelicula {
 } peliculas[3];
 void imprimirPelicula(pelicula pelicula);
 int main() {
+	cout << "Ejemplo de Estructuras" << endl << endl;
 	for (int i = 0; i < 3; i++)
 	{
 		cout << "Ingrese el titulo ";
